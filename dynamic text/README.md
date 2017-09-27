@@ -1,5 +1,7 @@
 # dynamic text
 
+>炫酷动态文本效果
+
 ## 效果
 
 ![](https://i.imgur.com/kRdCglj.gif)
