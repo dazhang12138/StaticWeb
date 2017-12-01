@@ -18,3 +18,4 @@
 - <a href="https://github.com/dazhang12138/StaticWeb/tree/master/clock">clock</a> --动态小人时钟
 - <a href="https://github.com/dazhang12138/StaticWeb/tree/master/waterfall%20flow">waterfall flow</a> --js动态控制固定位置方式实现瀑布流样式。
 - <a href="https://github.com/dazhang12138/StaticWeb/tree/master/loading">loading</a> --等待特效
+- <a href="https://github.com/dazhang12138/StaticWeb/tree/master/vue-js-markdown-editor">vue-js-markdown-editor</a> --基于Vue.js的MarkDown文本编译器
