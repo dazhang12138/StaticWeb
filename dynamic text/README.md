@@ -13,3 +13,9 @@
 
 
 > 更新2.0版本文字特效。
+
+# 2.0
+
+## 效果
+
+![](https://i.imgur.com/VBMcuvJ.gif)
